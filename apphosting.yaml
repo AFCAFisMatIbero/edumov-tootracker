@@ -1,0 +1,7 @@
+runConfig:
+     runtime: nodejs20
+   
+   env:
+     - variable: NODE_VERSION
+       value: "20"
+       
